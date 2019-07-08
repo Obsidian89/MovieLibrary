@@ -1,0 +1,7 @@
+com\offerService\bootApplication.class
+com\offerService\controller\OfferController.class
+com\offerService\model\DatabaseSequence.class
+com\offerService\database\OfferDataAccess.class
+com\offerService\database\OfferRepository.class
+com\offerService\model\Offer.class
+com\offerService\utils\DatabaseUtils.class
